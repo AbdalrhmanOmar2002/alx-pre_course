@@ -1,2 +1,0 @@
-Javascrept
-Index
